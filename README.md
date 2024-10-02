@@ -1,4 +1,4 @@
-this is an Rule based chatbot for that i use medical protol text data to make quick response between human and system.
+this is an Rule based chatbot for that i use medical protocol text data to make quick response between human and system.
 to make this projects i performed multiple step:
 load the dataset
 preprocess
